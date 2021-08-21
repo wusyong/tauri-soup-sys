@@ -51,7 +51,7 @@ license = "MIT"
 links = "soup"
 name = "tauri-soup-sys"
 repository = "https://github.com/gtk-rs/soup-sys-rs"
-version = "0.14.0"
+version = "0.14.1"
 edition = "2018"
 [package.metadata.system-deps.libsoup_2_4]
 name = "libsoup-2.4"
